@@ -11,3 +11,6 @@ data/**/*.csv
 data/**/*.parquet
 data/**/*.zip
 data/**/*.dta
+
+# personal planning doc — kept local only, not part of the public portfolio
+docs/PLAN.md

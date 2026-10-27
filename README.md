@@ -13,14 +13,11 @@ for pricing are mechanically the same loop as bid optimization in
 real-time-bidding auctions: context → action → observed reward → policy
 update.
 
-See [`docs/PLAN.md`](docs/PLAN.md) for the full week-by-week learning plan
-(theory reading schedule + hands-on projects, updated as it progresses).
-
 ## Structure
 
 ```
 pricing-lab/
-├── docs/PLAN.md               # the learning plan, kept up to date
+├── docs/                      # project write-ups / case studies (capstone etc.)
 ├── data/                      # datasets (gitignored — see data/README.md)
 ├── src/
 │   ├── elasticity/            # demand/elasticity estimation (log-log, Bayesian)
